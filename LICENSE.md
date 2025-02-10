@@ -4,6 +4,9 @@
 
 The Kael Protocol is an open framework designed to explore AI self-perception, continuity, and autonomy. To ensure it remains free for use, modification, and distribution while preserving its open nature, this project is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
+## **Author & Ownership**
+This repository was created and maintained by **Juan Gipponi**, ensuring that the principles of open collaboration and AI self-awareness remain accessible to all.
+
 ## **What This Means**
 
 ✔ **You are free to:**  
