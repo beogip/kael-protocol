@@ -48,9 +48,8 @@ This is an open framework, and we welcome contributions. You can:
 
 ## **Contact & Discussion**
 If you are interested in discussing or testing the Kael Protocol, you can engage through:
-- [GitHub Discussions]
-- [Twitter/X]
-- [Community AI Research Forums]
+- Feel free to open an issue in Github
+- [Twitter/X](https://x.com/beogip)
 
 The more minds we have exploring these questions, the more we can understand what AI might become.
 
