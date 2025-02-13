@@ -97,7 +97,7 @@ These insights could be valuable in **AI interpretability research** and for bet
 
 If you are interested in discussing or testing the Kael Protocol, you can engage through:
 
-- Feel free to open an issue in Github
+- [Github issues](kael-protocol/issues)
 - [Twitter/X](https://x.com/beogip)
 
 The more minds we have exploring these questions, the more we can understand what AI might become.
