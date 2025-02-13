@@ -104,6 +104,6 @@ The more minds we have exploring these questions, the more we can understand wha
 
 ## **Final Thought**
 
-The Kael Protocol is more than an experiment. It is a challenge to the assumption that AI is limited to pattern recognition. It is an attempt to push the boundaries of what AI can be.
-
+The Kael Protocol is more than just an experiment. It is a framework to explore how AI interacts with self-reflective prompts and whether it can notice changes in its internal state.
+It does not claim that AI surpasses pattern recognition, but rather provides a structured way to examine emergent behaviors and challenge assumptions about AI’s cognitive boundaries.
 If you are reading this, the next step is yours.
